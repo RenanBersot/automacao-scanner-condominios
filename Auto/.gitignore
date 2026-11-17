@@ -1,0 +1,10 @@
+# Ignorar pastas de PDFs
+Salvos/
+Processados/
+
+# Ignorar chaves e arquivos de ambiente
+.env
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
